@@ -1,4 +1,5 @@
-Useful commands on mac
+For more commands:
+https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal
 
 git pull
 git add . # Add your files to Git to prepare your commit
