@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // TODO: Exercise 1 -> Add a new button. Button will show a Toast message "Button clicked!"
+        // TODO: Exercise 1 -> Add a new button. Button will show a Toast message "Button clicked!"x1
     }
 }
