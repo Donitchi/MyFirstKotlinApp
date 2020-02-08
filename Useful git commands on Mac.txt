@@ -18,6 +18,6 @@ git pull
 
 Steps: 
 1. git pull
-2. Git add . 
-3. Git commit -m "Write your message" 
-4. Git push
+2. git add . 
+3. git commit -m "Write your message" 
+4. git push
