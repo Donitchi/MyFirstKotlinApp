@@ -14,3 +14,10 @@ git push
 git pull
 
 :qa (exit)
+
+
+Steps: 
+1. git pull
+2. Git add . 
+3. Git commit -m "Write your message" 
+4. Git push
